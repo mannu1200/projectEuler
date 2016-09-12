@@ -9,7 +9,6 @@ function sol2() {
 		if(b %2 === 0) {
 			sum += b;
 		}
-		console.log('processing---------------------------->',b);	
 	}
 	console.log('result------------------------>',sum);
 }

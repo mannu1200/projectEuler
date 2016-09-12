@@ -24,7 +24,6 @@
 			sum += counter;
 		}	
 	});
-console.log('processing.....',sum);
 	}
 console.log('finally-------->',sum);
 }());
