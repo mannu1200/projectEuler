@@ -1,3 +1,3 @@
 # projectEuler
 
-My solutions for Project Project Euler!
+My solutions for project Euler!
